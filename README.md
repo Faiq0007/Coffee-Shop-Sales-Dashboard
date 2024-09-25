@@ -102,3 +102,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 Maven Analytics
+
+## Contact
+For further inquiries, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faiq-syed-7494b5197/).
