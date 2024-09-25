@@ -100,3 +100,5 @@ To view the dashboard, download the Excel file from this repository and enable m
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+## Acknowledgements
+Maven Analytics
